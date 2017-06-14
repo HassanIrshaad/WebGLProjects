@@ -5,3 +5,4 @@ Recently been getting back into JavaScript development. Haven't had a chance yet
 - lesson one, 2d coloured triangle
 - lesson two, 3d rotating cube (using three.js)
 - lesson three, vertices (upwards pinting arrow using three.js)
+- lesson four, icosahedron (using three.js)
